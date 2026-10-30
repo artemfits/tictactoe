@@ -1,15 +1,27 @@
 Изначально игровое поле пустое.
 <img width="600" height="478" alt="image" src="https://github.com/user-attachments/assets/674d50a3-5894-4bc3-a3c0-f8635adfb1e8" />
+
+
 Первый ход всегда идёт за игроком "X".
 <img width="335" height="431" alt="image" src="https://github.com/user-attachments/assets/a6d92ae3-0b5a-4842-aeb6-db9c0037644d" />
+
+
 Затем игрок "О" совершает свой ход.
 <img width="334" height="425" alt="image" src="https://github.com/user-attachments/assets/64f752d8-ae97-4cb1-8744-17c30647908a" />
+
+
 Программа отображает, какой из игроков совершает ход в данный момент.
 <img width="338" height="429" alt="image" src="https://github.com/user-attachments/assets/023855f4-ca78-463d-b443-b242fbdbf292" />
+
+
 Игра продолжается до тех пор, пока один из игроков не выстраивает ряд своих фигур по вертикали, горизонтали или диагонали.
 <img width="338" height="432" alt="image" src="https://github.com/user-attachments/assets/a74adcf1-37f8-4617-9e1f-3d76caa4eb4c" />
+
+
 Если никому из игроков за 9 ходов не удалось выстроить свои фигуры в нужной комбинации, выходит "Ничья".
 <img width="336" height="432" alt="image" src="https://github.com/user-attachments/assets/fa33f71c-a2de-4397-8506-d2510681a161" />
+
+
 7. Чтобы перезапустить игру, нажмите кнопку "Начать заново" в нижней части экрана.
 <img width="337" height="441" alt="image" src="https://github.com/user-attachments/assets/bff018a7-7c7a-4a54-8d0c-271da24808d2" />
 
