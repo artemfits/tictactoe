@@ -1,3 +1,9 @@
+<img width="600" height="478" alt="image" src="https://github.com/user-attachments/assets/674d50a3-5894-4bc3-a3c0-f8635adfb1e8" />
+<img width="596" height="479" alt="image" src="https://github.com/user-attachments/assets/c7128578-329b-4db9-b6c3-9d23107990d1" />
+<img width="602" height="476" alt="image" src="https://github.com/user-attachments/assets/cea37b9d-d118-4dad-a5ed-c092b2934bc2" />
+
+
+
 # Игра «Крестики-нолики» (Tic-Tac-Toe)
 
 Классическая игра **«Крестики-нолики»** для двух игроков, разработанная на языке **C#** в среде **Microsoft Visual Studio** с использованием технологии **Windows Forms**.
